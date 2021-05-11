@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 <!-- And My first project which I have done on my own in GitHub!! 🤣 -->
 
 * 🔭 I’m currently working on **Python**.
