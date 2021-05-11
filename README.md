@@ -1,6 +1,8 @@
 ### Hello there 👋
 <!-- And My first project which I have done on my own in GitHub!! 🤣 -->
 
+<img src="https://media.discordapp.net/attachments/839849690870579200/841626925214859277/1da2rsE9um1Tfw1WvvLTtuBLjVsnmHL21faH8EPeyyZrlf8DbgJ4SzuJtLoAAAAASUVORK5CYII.png" align="right"></img>
+
 * 🔭 I’m currently working on **Python**.
 - 🌱 I’m currently learning more about *Javascript* & *Python*.
 * 👯 I’m looking to collaborate on *Discord bots*. :octocat:
