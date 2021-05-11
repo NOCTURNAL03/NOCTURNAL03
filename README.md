@@ -6,10 +6,10 @@ Here are some ideas before you get started.
 -->
 
 
-- 🔭 I’m currently working on Python...
-- 🌱 I’m currently learning Javascript & Python...
-- 👯 I’m looking to collaborate on Discord bots...
-- 💬 Ask me about Discord Bots, maybe I can help.
+- 🔭 I’m currently working on Python.
+- 🌱 I’m currently learning more about Javascript & Python.
+- 👯 I’m looking to collaborate on Discord bots.
+- 💬 Ask me about Discord and Bots.
 - 📫 How to reach me: Discord.
 - ⚡ Fun fact: I like music ♬!
 
