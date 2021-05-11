@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**NOCTURNAL03/NOCTURNAL03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas before you get started.
--->
-
 
 - 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning more about Javascript & Python.
@@ -29,4 +24,8 @@ Get this shit out when I'm actually ready to create!
 <p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOCTURNAL03&layout=compact&hide_border=true&theme=dark" alt="Most used languages"></img>
 </p>
+<br>
+<br>
+<br>
+Special thank's to [Anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 -->
