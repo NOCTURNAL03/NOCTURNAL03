@@ -27,5 +27,5 @@ Get this shit out when I'm actually ready to create!
 <br>
 <br>
 <br>
-Special thank's to [Anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+Special thank's to [Anuraghazra](https://github.com/anuraghazra/github-readme-stats)For this cool stats API!! And My first project which I have done on my own in GitHub!! 🤣
 -->
