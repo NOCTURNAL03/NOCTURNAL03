@@ -3,11 +3,11 @@
 
 * 🔭 I’m currently working on **Python**.
 - 🌱 I’m currently learning more about *Javascript* & *Python*.
-* 👯 I’m looking to collaborate on *Discord bots*.
+* 👯 I’m looking to collaborate on *Discord bots*. :octocat:
 - 🤔 I’m looking for help with **Javascript** *(mostly)*!
 * 💬 Ask me about **Discord** and **Bots**.
-- 📫 How to reach me: Discord- **ᑎOᑕTᑌᖇᑎᗩᒪ#3593**.
-* ⚡ Fun fact: **I like music :musical_note:!**
+- 📫 How to reach me: Discord- :atom: **ᑎOᑕTᑌᖇᑎᗩᒪ#3593**.
+* ⚡ Fun fact: **I like music :musical_note:!** :trollface:
 
 
 ## Github Stats
