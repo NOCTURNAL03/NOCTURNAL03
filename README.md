@@ -1,4 +1,4 @@
-### <img src="https://media.discordapp.net/attachments/839849690870579200/841638478067662858/25.gif"></img> Hello there 👋 
+### <img src="https://media.discordapp.net/attachments/839849690870579200/841643135716294668/wave.gif"></img> Hello there 👋 
 <!-- And My first project which I have done on my own in GitHub!! 🤣 -->
 
 <img src="https://media.discordapp.net/attachments/839849690870579200/841626925214859277/1da2rsE9um1Tfw1WvvLTtuBLjVsnmHL21faH8EPeyyZrlf8DbgJ4SzuJtLoAAAAASUVORK5CYII.png" align="right"></img>
@@ -12,7 +12,7 @@
 * ⚡ Fun fact: **I like music :musical_note:!** :trollface:
 
 
-## Github Stats
+## <img src="https://media.discordapp.net/attachments/839849690870579200/841638478067662858/25.gif"></img> Github Stats
 
 <p>
 <img alt="GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=NOCTURNAL03&show_icons=true&hide_border=true&theme=dark"></img>
