@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning more about *Javascript* & *Python*.
 * 👯 I’m looking to collaborate on *Discord bots*. :octocat:
 - 🤔 I’m looking for help with **Javascript** *(mostly)*!
-* 💬 Ask me about **Discord** and **Bots**.
+* 💬 Ask me about **Discord** and **Bots** and **Some fun stuff :basecamp:**.
 - 📫 How to reach me: Discord- :atom: **ᑎOᑕTᑌᖇᑎᗩᒪ#3593**.
 * ⚡ Fun fact: **I like music :musical_note:!** :trollface:
 
