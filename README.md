@@ -12,7 +12,7 @@
 * ⚡ Fun fact: **I like music :musical_note:!** :trollface:
 
 
-## <img src="https://media.discordapp.net/attachments/839849690870579200/841638478067662858/25.gif"></img> Github Stats
+## <img src="https://media.discordapp.net/attachments/839849690870579200/843160157106339890/ROCKET.gif"></img> Github Stats
 
 <p>
 <img alt="GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=NOCTURNAL03&show_icons=true&hide_border=true&theme=dark"></img>
