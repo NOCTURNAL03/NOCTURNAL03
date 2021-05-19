@@ -1,13 +1,13 @@
 ### <img src="https://media.discordapp.net/attachments/839849690870579200/841643135716294668/wave.gif"></img> Hello there 👋 
-<!-- And My first project which I have done on my own in GitHub!! 🤣 -->
+<!-- And My first project which I have done on my own in GitHub!! 🤣 {Memories bruh!} -->
 
 <img src="https://media.discordapp.net/attachments/839849690870579200/841626925214859277/1da2rsE9um1Tfw1WvvLTtuBLjVsnmHL21faH8EPeyyZrlf8DbgJ4SzuJtLoAAAAASUVORK5CYII.png" align="right"></img>
 
-* 🔭 I’m currently working on **Python**.
-- 🌱 I’m currently learning more about *Javascript* & *Python* (even *Java*).
+* 🔭 I’m currently working on **Java**.
+- 🌱 I’m currently learning more about **Java**, *Javascript* & *Python*.
 * 👯 I’m looking to collaborate on *Discord bots*. :octocat:
-- 🤔 I’m looking for help with **Javascript** *(mostly)*!
-* 💬 Ask me about **Discord** and **Bots** and **Some fun stuff :basecamp:**.
+- 🤔 I’m looking for help with **Java** *(mostly *Javascript*)*!
+* 💬 Ask me about **Discord**, **Bots** and **Coding** and **Some fun stuff :basecamp:**.
 - 📫 How to reach me: Discord- :atom: **ᑎOᑕTᑌᖇᑎᗩᒪ#3593**.
 * ⚡ Fun fact: **I like music :musical_note:!** :trollface:
 
@@ -23,7 +23,7 @@
 </p>
 <br>
 <!--
-Get this shit out when I'm actually ready to create! So awesome projects!
+Get this shit out when I'm actually ready to create! So awesome projects! for the world !!
 <p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOCTURNAL03&layout=compact&hide_border=true&theme=dark" alt="Most used languages"></img>
 </p>
