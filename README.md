@@ -10,18 +10,17 @@
 * 💬 Ask me about **Discord**, **Bots** and **Coding** and **Some fun stuff :basecamp:**.
 - 📫 How to reach me: Discord- :atom: **ᑎOᑕTᑌᖇᑎᗩᒪ#3593**.
 * ⚡ Fun fact: **I like music :musical_note:!** :trollface:
-
+</br>
 
 ## <img src="https://media.discordapp.net/attachments/839849690870579200/843160157106339890/ROCKET.gif"></img> Github Stats
 
 <p>
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NOCTURNAL03&count_private=true&show_icons=true&theme=dark&hide_border=true"></img>
 </p>
-<br>
 <p>
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=NOCTURNAL03&hide_border=true&theme=dark" alt="NOCTURNAL"></img>
 </p>
-<br>
+</br>
 <!--
 Get this shit out when I'm actually ready to create! So awesome projects! for the world !!
 <p> 
