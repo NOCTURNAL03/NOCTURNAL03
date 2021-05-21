@@ -15,7 +15,7 @@
 ## <img src="https://media.discordapp.net/attachments/839849690870579200/843160157106339890/ROCKET.gif"></img> Github Stats
 
 <p>
-<img alt="GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=NOCTURNAL03&show_icons=true&hide_border=true&theme=dark"></img>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NOCTURNAL03&count_private=true&show_icons=true&theme=dark&hide_border=true"></img>
 </p>
 <br>
 <p>
