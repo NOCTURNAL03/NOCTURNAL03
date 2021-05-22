@@ -18,7 +18,7 @@
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NOCTURNAL03&count_private=true&show_icons=true&theme=dark&hide_border=true"></img>
 </p>
 <p>
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=NOCTURNAL03&count_private=true&hide_border=true&theme=dark" alt="NOCTURNAL"></img>
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=NOCTURNAL03&hide_border=true&theme=dark" alt="NOCTURNAL"></img>
 </p>
 </br>
 <!--
