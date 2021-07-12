@@ -8,7 +8,7 @@
 * 👯 I’m looking to collaborate on *Discord bots*. :octocat:
 - 🤔 I’m looking for help with **Javascript** *(mostly *Java*)*!
 * 💬 Ask me about **Discord**, **Bots** and **Coding** and **Some fun stuff :basecamp:**.
-- 📫 How to reach me: Discord- :atom: **ᑎOᑕTᑌᖇᑎᗩᒪ#3593**.
+- 📫 How to reach me: Discord- :atom: **NOCTURNAL#0001**.
 * ⚡ Fun fact: **[Java sure is powerful !](https://github.com/aosp-mirror)** 
 </br>
 
