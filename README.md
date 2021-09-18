@@ -12,7 +12,7 @@
 * ⚡ Fun fact: **[Java sure is powerful !](https://github.com/aosp-mirror)** 
 </br>
 
-## <img src="https://cdn.discordapp.com/attachments/854989146644545536/888791029770256395/MONA_WHISPER_GITHUB.gif" style="height: 50px; width:25px;"></img> Github Stats
+## <img src="https://cdn.discordapp.com/attachments/854989146644545536/888791029770256395/MONA_WHISPER_GITHUB.gif" style="height: 50px; width:50px;"></img> Github Stats
 
 <p>
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NOCTURNAL03&count_private=true&show_icons=true&theme=dark&hide_border=true"></img>
