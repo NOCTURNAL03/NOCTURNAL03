@@ -8,11 +8,11 @@
 * 👯 I’m looking to collaborate on *Discord bots*. :octocat:
 - 🤔 I’m looking for help with **Javascript** *(mostly *Java*)*!
 * 💬 Ask me about **Discord**, **Bots** and **Coding** and **Some fun stuff :basecamp:**.
-- 📫 How to reach me: Discord- :atom: **NOCTURNAL#0001**.
+- 📫 How to reach me: Discord- :atom: **NOCTURNAL#2703**.
 * ⚡ Fun fact: **[Java sure is powerful !](https://github.com/aosp-mirror)** 
 </br>
 
-## <img src="https://media.discordapp.net/attachments/839849690870579200/843160157106339890/ROCKET.gif"></img> Github Stats
+## <img src="https://cdn.discordapp.com/attachments/854989146644545536/888791029770256395/MONA_WHISPER_GITHUB.gif"></img> Github Stats
 
 <p>
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NOCTURNAL03&count_private=true&show_icons=true&theme=dark&hide_border=true"></img>
